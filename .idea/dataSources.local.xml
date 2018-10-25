@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails toy_app: development" uuid="2d399632-ca61-425d-8b92-fc5b7f0a8c35">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="SQLITE" exact-version="0.0" />
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails toy_app: test" uuid="1080bab5-96e2-466b-a183-5ce9f7e041e4">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Rails toy_app: production" uuid="6889f6f3-a093-4ea4-a8aa-207aa3907ad6">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
